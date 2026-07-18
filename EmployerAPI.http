@@ -4,25 +4,3 @@ GET {{EmployerAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
-### Get All Employees
-GET {{EmployerAPI_HostAddress}}/api/Employee
-Accept: application/json
-
-###
-
-### Get Employee By Id
-GET {{EmployerAPI_HostAddress}}/api/Employee/1
-Accept: application/json
-
-###
-
-### Add Employee
-POST {{EmployerAPI_HostAddress}}/api/Employee
-Content-Type: application/json
-
-{
-  "id": 4,
-  "name": "John",
-  "department": "Sales",
-  "salary": 55000
-}

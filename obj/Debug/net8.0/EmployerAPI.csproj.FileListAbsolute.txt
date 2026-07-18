@@ -33,4 +33,3 @@ C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\refint\Empl
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI.pdb
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI.genruntimeconfig.cache
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\ref\EmployerAPI.dll
-C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI.sourcelink.json
