@@ -18,6 +18,7 @@ C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI.csproj.CoreCompileInputs.cache
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI.sourcelink.json
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -26,7 +27,7 @@ C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\staticwebas
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\swae.build.ex.cache
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\Employer.30B80156.Up2Date
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\EmployerAPI.dll
 C:\Users\rahul\source\repos\EmployerAPI\EmployerAPI\obj\Debug\net8.0\refint\EmployerAPI.dll
